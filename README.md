@@ -18,3 +18,8 @@ https://git-scm.com/downloads
 
 ## Descargar Github Client
 https://desktop.github.com/
+
+# Otros Links
+- Git: https://www.tutorialspoint.com/git/
+- Node Package Manager: https://www.npmjs.com/
+- Http Methods: https://exceptionnotfound.net/using-http-methods-correctly-in-asp-net-web-api/
