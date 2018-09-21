@@ -12,3 +12,9 @@ https://nodejs.org/en/download/
 
 ## Descargar Postman
 https://www.getpostman.com/
+
+##Descargar Git
+https://git-scm.com/downloads
+
+## Descargar Github Client
+https://desktop.github.com/
