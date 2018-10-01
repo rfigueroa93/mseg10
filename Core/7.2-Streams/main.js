@@ -20,7 +20,6 @@ readerStream.pipe(writerStream);
 // Salvar el pipe TODO.
 // Ejericio: trate de salvar el texto en un nuevo archivo
 
-
 // fin de codigo
 
 console.log("Program Ended");
